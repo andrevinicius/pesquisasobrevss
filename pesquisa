@@ -1,3 +1,5 @@
-Microsoft Visual SourceSafe (VSS) é um sistema de controle de versão da Microsoft, geralmente utilizada para controle de software, mas que pode ser usado também para manter versões de documentos e imagens.
+  Microsoft Visual SourceSafe (VSS) é um sistema de controle de versão da Microsoft, geralmente utilizada para controle de software, mas que pode ser usado também para manter versões de documentos e imagens.
 
-É mais utilizada para o desenvolvimento de software pois muitas vezes ao corrigir ou atualizar um arquivo de um sistema podemos ter gerado outros erros ou desarrumar o que estava correto. Nesse caso é utilizado para voltar a cópia de segurança do arquivo.
+  É mais utilizada para o desenvolvimento de software pois muitas vezes ao corrigir ou atualizar um arquivo de um sistema podemos ter gerado outros erros ou desarrumar o que estava correto. Nesse caso é utilizado para voltar a cópia de segurança do arquivo.
+
+  É possível várias pessoas editarem o mesmo arquivo e compor uma versão única utilizando o recurso MERGE, identificando as diversas versões, autores e alterações. O SourceSafe possibilita rastrear todas as modificações realizadas, linha a linha, nos arquivos gerenciados.
